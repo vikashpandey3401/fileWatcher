@@ -1,0 +1,16 @@
+{
+  "name": "FileWatcher",
+  "version": "1.0.0",
+  "description": "1) Run npm install express socket.io --save 2)  open http://localhost:3000/ 3)  add new lines in log.txt file",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.16.4",
+    "socket.io": "^2.2.0"
+  }
+}
